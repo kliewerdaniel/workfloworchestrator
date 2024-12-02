@@ -10,3 +10,7 @@ langchain-community
 langchain-openai 
 langchain-chroma
 networkx
+django
+djangorestframework
+faiss-cpu 
+numpy
